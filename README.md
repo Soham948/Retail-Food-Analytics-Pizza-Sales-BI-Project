@@ -110,3 +110,6 @@ Data Analyst | Data Scientist
 ## ⭐ If you like this project
 Give it a star ⭐ on GitHub!
 
+<img width="1915" height="1065" alt="image" src="https://github.com/user-attachments/assets/cd4577cb-60d6-4e8d-af9d-f8073d95a8c3" />
+<img width="1917" height="1072" alt="image" src="https://github.com/user-attachments/assets/a641d474-f547-48eb-b2b7-6a9db72b6b2d" />
+
